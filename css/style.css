@@ -145,6 +145,7 @@ font-weight: 600;
 .texto{
     color: rgb(255, 76, 5);
     text-shadow: 0 0 3px rgb(14, 9, 9);
+    background-color: rgba(11, 65, 243, 0.25);
     font-size: 24px;
 }
 
@@ -162,8 +163,7 @@ font-weight: 600;
 .atividade_fundo{
     height: 300px;
     width: 275px;
-    background-color: rgb(11, 65, 243);
-    opacity: 70%;
+    background-color: rgba(11, 65, 243, 0.70);
     border: 2mm ridge rgba(215, 223, 226, 0.5);
     border-style: solid;
     flex-direction: column;

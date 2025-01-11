@@ -1,5 +1,5 @@
 /*
-****** LIMPAR FORMATAÇÕES ******
+** LIMPAR FORMATAÇÕES *
 */
 *{
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 /*
-****** FORMATAÇÕES GENÉRICAS ******
+*FORMATAÇÕES GENÉRICAS *
 */
 body {
     background-color: rgb(156, 47, 158);

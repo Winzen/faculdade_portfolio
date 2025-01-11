@@ -1,3 +1,5 @@
+// Acionadores
+
 function sobre_mim(){
     var d1 = document.getElementById("content");
     d1.innerHTML = '' 
@@ -23,7 +25,7 @@ function contato(){
     d1.insertAdjacentHTML('afterbegin', '<div><h1>Ajuda</h1></div>')
 }
 
-
+// Pega o conteudo para gerar pagina "Sobre mim"
 
 function sobre_mim_html(){
     
@@ -50,6 +52,7 @@ function sobre_mim_html(){
 }
 
 
+// Pega o conteudo para gerar pagina "portfolio"
 
 function portfolio_html(){
     

@@ -8,7 +8,7 @@ function sobre_mim(){
 function portifolio(){
     var d1 = document.getElementById("content");
     d1.innerHTML = '' 
-    d1.insertAdjacentHTML('afterbegin', '<div><h1>Socorro</h1></div>')
+    d1.insertAdjacentHTML('afterbegin', portfolio_html())
 }
 
 function formacao(){
@@ -47,4 +47,147 @@ function sobre_mim_html(){
     </div>` 
 
     return html
+}
+
+
+
+function portfolio_html(){
+    
+  const html = `
+  <div class="atividades_fundo">
+    <div class="atividade_fundo">
+        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_link">
+            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+        </div>
+        <div class="atividade_descricao">
+            Raspagem e automação de 
+            conjunto de cartas dentro 
+            do jogo MASTER DUEL</div>
+        <div class="principais_ferramentas">Principais Ferramentas:</div>    
+        <div class="atividade_ferramentas">
+            <ul class="atividade_lista">
+                <li>BeautifulSoup</li>
+                <li>re</li>
+                <li>pyautogui</li>
+                <li>pytesseract</li>
+                <li>PIL</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="atividade_fundo">
+        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_link">
+            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+        </div>
+        <div class="atividade_descricao">
+            Raspagem e automação de 
+            conjunto de cartas dentro 
+            do jogo MASTER DUEL</div>
+        <div class="principais_ferramentas">Principais Ferramentas:</div>    
+        <div class="atividade_ferramentas">
+            <ul class="atividade_lista">
+                <li>BeautifulSoup</li>
+                <li>re</li>
+                <li>pyautogui</li>
+                <li>pytesseract</li>
+                <li>PIL</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="atividade_fundo">
+        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_link">
+            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+        </div>
+        <div class="atividade_descricao">
+            Raspagem e automação de 
+            conjunto de cartas dentro 
+            do jogo MASTER DUEL</div>
+        <div class="principais_ferramentas">Principais Ferramentas:</div>    
+        <div class="atividade_ferramentas">
+            <ul class="atividade_lista">
+                <li>BeautifulSoup</li>
+                <li>re</li>
+                <li>pyautogui</li>
+                <li>pytesseract</li>
+                <li>PIL</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="atividade_fundo">
+        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_link">
+            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+        </div>
+        <div class="atividade_descricao">
+            Raspagem e automação de 
+            conjunto de cartas dentro 
+            do jogo MASTER DUEL</div>
+        <div class="principais_ferramentas">Principais Ferramentas:</div>    
+        <div class="atividade_ferramentas">
+            <ul class="atividade_lista">
+                <li>BeautifulSoup</li>
+                <li>re</li>
+                <li>pyautogui</li>
+                <li>pytesseract</li>
+                <li>PIL</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="atividade_fundo">
+        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_link">
+            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+        </div>
+        <div class="atividade_descricao">
+            Raspagem e automação de 
+            conjunto de cartas dentro 
+            do jogo MASTER DUEL</div>
+        <div class="principais_ferramentas">Principais Ferramentas:</div>    
+        <div class="atividade_ferramentas">
+            <ul class="atividade_lista">
+                <li>BeautifulSoup</li>
+                <li>re</li>
+                <li>pyautogui</li>
+                <li>pytesseract</li>
+                <li>PIL</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="atividade_fundo">
+        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_link">
+            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+        </div>
+        <div class="atividade_descricao">
+            Raspagem e automação de 
+            conjunto de cartas dentro 
+            do jogo MASTER DUEL</div>
+        <div class="principais_ferramentas">Principais Ferramentas:</div>    
+        <div class="atividade_ferramentas">
+            <ul class="atividade_lista">
+                <li>BeautifulSoup</li>
+                <li>re</li>
+                <li>pyautogui</li>
+                <li>pytesseract</li>
+                <li>PIL</li>
+            </ul>
+        </div>
+    </div>
+</div>
+    ` 
+
+  return html
 }

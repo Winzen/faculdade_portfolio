@@ -83,10 +83,6 @@ a{
     text-decoration: none;
 }
 
-a:link, a:visited{
-    color: #0066CC;
-}
-
 a:hover{
     text-decoration: underline;
 }
@@ -150,4 +146,88 @@ font-weight: 600;
     color: rgb(255, 76, 5);
     text-shadow: 0 0 3px rgb(14, 9, 9);
     font-size: 24px;
+}
+
+
+/* Portfolio */
+
+.atividades_fundo{
+    width: 100%;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 300px 300px auto;
+
+}
+
+.atividade_fundo{
+    height: 300px;
+    width: 275px;
+    background-color: rgb(11, 65, 243);
+    opacity: 70%;
+    border: 2mm ridge rgba(215, 223, 226, 0.5);
+    border-style: solid;
+    flex-direction: column;
+    color: orange;
+    text-shadow: 0 0 3px rgb(14, 9, 9);
+    overflow: hidden;
+    
+}
+
+.atividade_titulo{
+    width: 100%;
+    height: 10%;
+    flex: 1;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    /* border: 1mm ridge rgba(241, 7, 19, 0.5); */
+}
+.atividade_link{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex: 1;
+    padding-bottom: 10px;
+    
+}
+.atividade_icon_link{
+    width: 30px;
+}
+
+.atividade_texto_link{
+    position: relative;
+    text-align: left;
+    top: 25%;
+    color: orange;
+    font-weight: bold;
+    text-shadow: 0 0 3px rgb(14, 9, 9);
+}
+
+.atividade_descricao{
+    width: 100%;
+    flex: 1;
+    text-align: center;
+    font-size: 18px;
+    height: 25%;
+}
+
+.principais_ferramentas{
+    flex: 1;
+    text-align: left;
+    height: 8%;
+    font-weight: bold;
+}
+
+.atividade_ferramentas{
+    flex: 1;
+    text-align: left;
+    height: 38%;
+}
+
+.atividade_fundo > li{
+    color: orange;
+    text-shadow: 0 0 3px rgb(14, 9, 9);
+    
 }

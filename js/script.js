@@ -16,7 +16,7 @@ function portifolio(){
 function formacao(){
     var d1 = document.getElementById("content");
     d1.innerHTML = '' 
-    d1.insertAdjacentHTML('afterbegin', '<div><h1>Me</h1></div>')
+    d1.insertAdjacentHTML('afterbegin', formacao_html())
 }
 
 function contato(){
@@ -195,7 +195,40 @@ function portfolio_html(){
   return html
 }
 
-// Pega o conteudo para gerar pagina "Sobre mim"
+
+// Pega o conteudo para gerar pagina "Formação"
+
+function formacao_html(){
+    
+    const html = `
+        <section class="info-section">
+ 
+            <h2>Idiomas</h2>
+            <ul>
+                <li>Português (nativo)</li>
+                <li>Inglês (avaliado B2)</li>
+                <li>Espanhol (avaliado B1)</li>
+            </ul>
+            
+            <h2>Habilidades Principais</h2>
+            <ul>
+                <li>Projetos de construção</li>
+                <li>Gerenciamento de projetos</li>
+                <li>Análise de custos</li>
+                <li>Planejamento de obras</li>
+            </ul>
+            
+            <h2>Formação Acadêmica</h2>
+            <ul>
+                <li>Bacharelado em Engenharia Civil - UFMG</li>
+                <li>Pós-Graduação em Gestão de Projetos - PUC Minas</li>
+            </ul>
+        </section>` 
+
+    return html
+}
+
+// Pega o conteudo para gerar pagina "Contato"
 
 function contato_html(){
     

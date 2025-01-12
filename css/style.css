@@ -226,12 +226,30 @@ font-weight: 600;
     height: 38%;
 }
 
-.atividade_fundo > li{
+.atividade_lista > li::before{
     color: orange;
     text-shadow: 0 0 3px rgb(14, 9, 9);
-    
+    list-style-type: disc;
+    content: "•";
+    margin-right: 5px;
 }
 
+
+/* Formação */
+
+.info-section h2 {
+    color: #007bff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.info-section ul {
+    padding-left: 20px;
+}
+
+.info-section li {
+    margin-bottom: 5px;
+}
 
 /* Contato */
 
@@ -292,3 +310,4 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+

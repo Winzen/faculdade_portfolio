@@ -22,7 +22,7 @@ function formacao(){
 function contato(){
     var d1 = document.getElementById("content");
     d1.innerHTML = '' 
-    d1.insertAdjacentHTML('afterbegin', '<div><h1>Ajuda</h1></div>')
+    d1.insertAdjacentHTML('afterbegin', contato_html())
 }
 
 // Pega o conteudo para gerar pagina "Sobre mim"
@@ -193,4 +193,31 @@ function portfolio_html(){
     ` 
 
   return html
+}
+
+// Pega o conteudo para gerar pagina "Sobre mim"
+
+function contato_html(){
+    
+    const html = `
+      <div class="contato">
+        <h2>Entre em Contato</h2>
+        <form action="/enviar-email" method="post">
+            <div class="form-group">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+            </div>
+            <div class="form-group">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" required></textarea>
+            </div>
+            <button type="submit">Enviar</button>
+        </form>
+    </div>` 
+
+    return html
 }

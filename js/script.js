@@ -81,111 +81,104 @@ function portfolio_html(){
     </div>
 
     <div class="atividade_fundo">
-        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_titulo">Aventura Na Historia Extract and Analyse</div>
         <div class="atividade_link">
-            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
-            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+            <a href="https://github.com/Winzen/Aventura-Na-Historia-Extract-and-Analyse/blob/main/Analyse/AVENTURA_GRAFICOS.ipynb" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Aventura-Na-Historia-Extract-and-Analyse/blob/main/Analyse/AVENTURA_GRAFICOS.ipynb" target=_blank>ACESSE O PROJETO</a>
         </div>
         <div class="atividade_descricao">
-            Raspagem e automação de 
-            conjunto de cartas dentro 
-            do jogo MASTER DUEL</div>
+            Raspagem de publicações.
+            Analises de desempenho dos  funcionários.</div>
         <div class="principais_ferramentas">Principais Ferramentas:</div>    
         <div class="atividade_ferramentas">
             <ul class="atividade_lista">
+                <li>Pandas</li>
+                <li>Sqlite3</li>
+                <li>Matplotlib</li>
                 <li>BeautifulSoup</li>
-                <li>re</li>
-                <li>pyautogui</li>
-                <li>pytesseract</li>
-                <li>PIL</li>
+                <li>Re</li>
+                <li>Numpy</li>
             </ul>
         </div>
     </div>
 
     <div class="atividade_fundo">
-        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_titulo">SF 5 DB START.GG Extract and Analyse</div>
         <div class="atividade_link">
-            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
-            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+            <a href="https://github.com/Winzen/Street-Fighter-5-DB-START.GG-Extract-and-Analyse-/blob/main/Analyse/FGC_DATA.ipynb" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Street-Fighter-5-DB-START.GG-Extract-and-Analyse-/blob/main/Analyse/FGC_DATA.ipynb" target=_blank>ACESSE O PROJETO</a>
         </div>
         <div class="atividade_descricao">
-            Raspagem e automação de 
-            conjunto de cartas dentro 
-            do jogo MASTER DUEL</div>
+            Coleta de dados pela 
+            api Start.gg.
+            Analise de desempenho dos
+            jogadores</div>
         <div class="principais_ferramentas">Principais Ferramentas:</div>    
         <div class="atividade_ferramentas">
             <ul class="atividade_lista">
-                <li>BeautifulSoup</li>
-                <li>re</li>
-                <li>pyautogui</li>
-                <li>pytesseract</li>
-                <li>PIL</li>
+                <li>Pandas</li>
+                <li>Sqlite3</li>
+                <li>Matplotlib</li>
+                <li>Numpy</li>
+                <li>GraphQL</li>
             </ul>
         </div>
     </div>
 
     <div class="atividade_fundo">
-        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_titulo">MultTimer-Mobile</div>
         <div class="atividade_link">
-            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
-            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+            <a href="https://github.com/Winzen/MultTimer-Mobile" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/MultTimer-Mobile" target=_blank>ACESSE O PROJETO</a>
         </div>
         <div class="atividade_descricao">
-            Raspagem e automação de 
-            conjunto de cartas dentro 
-            do jogo MASTER DUEL</div>
+            APP de MultTimer para celular feito para me ajudar na academia</div>
         <div class="principais_ferramentas">Principais Ferramentas:</div>    
         <div class="atividade_ferramentas">
             <ul class="atividade_lista">
-                <li>BeautifulSoup</li>
-                <li>re</li>
-                <li>pyautogui</li>
-                <li>pytesseract</li>
-                <li>PIL</li>
+                <li>kivy</li>
+                <li>OOP</li>
+                <li>json</li>
             </ul>
         </div>
     </div>
 
     <div class="atividade_fundo">
-        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_titulo">Overlay-OBS-TOPs</div>
         <div class="atividade_link">
-            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
-            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+            <a href="https://github.com/Winzen/Overlay-OBS-TOPs" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/Overlay-OBS-TOPs" target=_blank>ACESSE O PROJETO</a>
         </div>
         <div class="atividade_descricao">
-            Raspagem e automação de 
-            conjunto de cartas dentro 
-            do jogo MASTER DUEL</div>
+            Aplicação forma telas de top 8 e top 16 para sua live via smash.gg</div>
         <div class="principais_ferramentas">Principais Ferramentas:</div>    
         <div class="atividade_ferramentas">
             <ul class="atividade_lista">
-                <li>BeautifulSoup</li>
-                <li>re</li>
-                <li>pyautogui</li>
-                <li>pytesseract</li>
-                <li>PIL</li>
+                <li>css</li>
+                <li>JavaScript</li>
+                <li>HTML</li>
+                <li>tkinter</li>
+                <li>threading</li>
             </ul>
         </div>
     </div>
 
     <div class="atividade_fundo">
-        <div class="atividade_titulo">Deck Builder Master Duel Macro</div>
+        <div class="atividade_titulo">OverLay-OBS-Last-N-Matches</div>
         <div class="atividade_link">
-            <a href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
-            <a class="atividade_texto_link" href="https://github.com/Winzen/Deck-Builder-Master-Duel-Macro" target=_blank>ACESSE O PROJETO</a>
+            <a href="https://github.com/Winzen/OverLay-OBS-Last-N-Matches" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+            <a class="atividade_texto_link" href="https://github.com/Winzen/OverLay-OBS-Last-N-Matches" target=_blank>ACESSE O PROJETO</a>
         </div>
         <div class="atividade_descricao">
-            Raspagem e automação de 
-            conjunto de cartas dentro 
-            do jogo MASTER DUEL</div>
+            Cria Overlays das ultimas partidas que aconteceram no campeonato via smash.gg</div>
         <div class="principais_ferramentas">Principais Ferramentas:</div>    
         <div class="atividade_ferramentas">
             <ul class="atividade_lista">
-                <li>BeautifulSoup</li>
-                <li>re</li>
-                <li>pyautogui</li>
-                <li>pytesseract</li>
-                <li>PIL</li>
+                <li>css</li>
+                <li>JavaScript</li>
+                <li>HTML</li>
+                <li>tkinter</li>
+                <li>threading</li>
             </ul>
         </div>
     </div>
@@ -201,7 +194,7 @@ function portfolio_html(){
 function formacao_html(){
     
     const html = `
-        <section class="info-section">
+        <section class="formacao_seaction">
  
             <h2>Idiomas</h2>
             <ul>
@@ -210,18 +203,55 @@ function formacao_html(){
                 <li>Espanhol (avaliado B1)</li>
             </ul>
             
-            <h2>Habilidades Principais</h2>
-            <ul>
-                <li>Projetos de construção</li>
-                <li>Gerenciamento de projetos</li>
-                <li>Análise de custos</li>
-                <li>Planejamento de obras</li>
-            </ul>
-            
+            <h2>Certificados Digitais</h2>
+            <div class="formacao_academia_certificado_fundo">
+                <div class="atividade_fundo">
+                        <div class="atividade_titulo">Scientific Computing with Python</div>
+                        <div class="formacao_instituto">FreeCodeCamp</div>
+                        <div class="atividade_link">
+                            <a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/scientific-computing-with-python-v7" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+                            <a class="atividade_texto_link" href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/scientific-computing-with-python-v7" target=_blank>ACESSE O PROJETO</a>
+                        </div>
+                        <div class="formacao_conclusao">Concluído: Novembro 29, 2021</div>
+                        <div class="principais_ferramentas">Principais conceitos aprendidos:</div>    
+                        <div class="atividade_ferramentas">
+                            <ul>
+                                <li>Data Structures</li>
+                                <li>Networking</li>
+                                <li>Relational Databases</li>
+                                <li>Data Visualization</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="atividade_fundo">
+                        <div class="atividade_titulo">Data Analysis with Python</div>
+                        <div class="formacao_instituto">FreeCodeCamp</div>
+                        <div class="atividade_link">
+                            <a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/data-analysis-with-python-v7" target=_blank><img class="atividade_icon_link" src="imagens\\world-wide-web.png" alt=""></a>
+                            <a class="atividade_texto_link" href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/data-analysis-with-python-v7" target=_blank>ACESSE O PROJETO</a>
+                        </div>
+                        <div class="formacao_conclusao">Concluído: Dezembro 9, 2021</div>
+                        <div class="principais_ferramentas">Principais conceitos aprendidos:</div>    
+                        <div class="atividade_ferramentas">
+                            <ul>
+                                <li>Numpy</li>
+                                <li>Pandas</li>
+                                <li>Matplotlib</li>
+                                <li>Seaborn </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
             <h2>Formação Acadêmica</h2>
             <ul>
-                <li>Bacharelado em Engenharia Civil - UFMG</li>
-                <li>Pós-Graduação em Gestão de Projetos - PUC Minas</li>
+                <li>
+                <div class="formacao_academia">
+                    <span class="formacao_academia_titulo">CENTRO UNIVERSITÁRIO INTERNACIONAL -  UNINTER</span>
+                    <span class="formacao_academia_duracao">Data  Science - 2024/2026</span>
+                </div>
+                </li>
             </ul>
         </section>` 
 

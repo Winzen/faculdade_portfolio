@@ -175,7 +175,7 @@ font-weight: 600;
 
 .atividade_titulo{
     width: 100%;
-    height: 10%;
+    height: 15%;
     flex: 1;
     text-align: center;
     font-size: large;
@@ -237,19 +237,55 @@ font-weight: 600;
 
 /* Formação */
 
-.info-section h2 {
-    color: #007bff;
+.formacao_seaction{
+    background-color: rgba(11, 65, 243, 0.30);
+    color: orange;
+}
+
+.formacao_seaction h2 {
+    color: #01162c;
     margin-top: 20px;
     margin-bottom: 10px;
 }
 
-.info-section ul {
+.formacao_seaction ul {
     padding-left: 20px;
+    content: "•";
 }
 
-.info-section li {
+.formacao_seaction li {
     margin-bottom: 5px;
 }
+
+.formacao_academia{
+    display: flex;
+    flex-direction: column;
+  }
+  
+.formacao_academia_certificado_fundo{
+    display: grid;
+    grid-template-columns: 300px 300px auto;
+}
+
+  .formacao_academia_titulo{
+    font-weight: bold
+  }
+  .formacao_academia_duracao{
+    flex-direction: column;
+  }
+
+  .formacao_instituto{
+    font-weight: bolder;
+    text-align: center;
+  }
+
+  .formacao_conclusao{
+    width: 100%;
+    flex: 1;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 5px;
+  }
 
 /* Contato */
 
